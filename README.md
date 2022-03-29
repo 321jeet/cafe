@@ -1,2 +1,2 @@
-# cafe
+# Cafe
 project Teacafe
